@@ -1,0 +1,6 @@
+{
+  "name": "Squeeze",
+  "description": "A lightweight, high-fidelity image compressor that reduces file size without compromising quality, with downloadable PNG output.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
